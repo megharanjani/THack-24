@@ -1,0 +1,41 @@
+{
+    "books":[
+        {
+          "title": "Twilight",
+          "auhtor":"Stephenie Meyer",
+          "description": "When 17 year old Isabella Swan moves to Forks, Washington to live with her father she expects that her new life will be as dull as the town.But in spite of her awkward manner and low expectations, she finds that her new classmates are drawn to this pale, dark-haired new girl in town.",
+          "genre":"Fantasy/Romance",
+          "imgSrc": "https://m.media-amazon.com/images/I/61sW9OBNRxL._AC_UF1000,1000_QL80_.jpg"
+        },
+    
+        {
+            "title": "The Alchemist",
+            "auhtor":"Paulo Coelho",
+            "description": "Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself.",
+            "genre":"Adventure Fiction",
+            "imgSrc": "https://www.crossword.in/cdn/shop/products/9788172234980.jpg?v=1680187071"
+          },
+          {
+            "title": "Frankenstein",
+            "auhtor":"Mary Shelly",
+            "description": "This edition of Frankenstein includes a Foreword, Biographical Note, and Afterword by Keith Neilson.When obsessed university student Victor Frankenstein finds the secret of animating dead flesh, he tries to create the first of a master race, stitching rotting corpses into a superhuman giant. Then the ghastly thing opens its hideous, soulless eyes and Frankenstein flees into the night, shrieking with horror--",
+            "genre":"Horror",
+            "imgSrc": "https://m.media-amazon.com/images/I/81EU992zdwL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "title": "Time Machine",
+            "auhtor":"H.G.Wells",
+            "description": "The story begins at a dinner party, where the Time Traveller is the host and explains to his guests how Time is just a Human Construct that simplifies it for the human brain to comprehend and that Time and Space are the same things ",
+            "genre":"sci/fiction",
+            "imgSrc": "https://m.media-amazon.com/images/I/81BWWw8+sCL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "title": "Mahashwetha",
+            "auhtor":"Sudha Murthy", 
+            "description": "Dr Anand watches a beautiful girl called Anupama in a play and falls in love with her. He is from a rich family and she is a scholarship student from a very poor family. Yet he is able to convince everyone that she is the girl for him, and they get married.",
+            "genre":"Romance",
+            "imgSrc": "https://th-i.thgim.com/public/migration_catalog/article10444570.ece/alternates/FREE_1200/30isbs%20mahashweta.jpg"
+          }
+      ]
+    } 
+   

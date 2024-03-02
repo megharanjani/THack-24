@@ -1,0 +1,37 @@
+@import "colors.scss";
+nav{
+    width: 100%;
+    padding:10px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position:sticky;
+    background-color: $first;
+    top:0%;
+    z-index:10;
+    height:100px;
+    background-color:$first;
+}
+img{
+    width:40%;
+    height:auto;
+    position: relative;
+    top:0%;
+    left:10%;
+}
+main{
+    width:70%;
+    display:flex;
+    justify-content: flex-end;
+    position: relative;
+    right:10%;
+    top:0%;
+    
+    a{
+        color:$second;
+        margin:1rem;
+        &:hover{
+            color:$fourth;
+        }
+    }
+}
