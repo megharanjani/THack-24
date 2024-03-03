@@ -37,3 +37,8 @@ BookHive is a web-based catalog tailored for local libraries, offering intuitive
 
 #### Real-time availability status for books: One of the key features of BookHive is its ability to display the current availability status of books in the library's collection in real-time. This means that users can see whether a book is currently available for checkout, on hold, or checked out by another patron before visiting the library in person. Real-time availability information helps users make informed decisions about which books to borrow and reduces frustration caused by outdated or inaccurate catalog information.
 
+Project Demo Video :
+
+https://drive.google.com/file/d/1-7UcJFXN6kAnMpIL-aE18ReoAu8vOuTZ/view?usp=drive_link
+
+
