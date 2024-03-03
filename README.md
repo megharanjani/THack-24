@@ -16,8 +16,17 @@ BookHive is a web-based catalog tailored for local libraries, offering intuitive
 - Borrow books that you want to read
 - Random famous quotes to inspire you!
 
+![WhatsApp Image 2024-03-03 at 10 46 09 AM](https://github.com/CrossBytes/THack-24/assets/126707783/0ced58c3-ae54-4221-ba2a-5b24506f0f73)
+
+![WhatsApp Image 2024-03-03 at 10 46 45 AM](https://github.com/CrossBytes/THack-24/assets/126707783/4ca4de91-1311-43f6-8604-6f4cc2f8ac3d)
+
+![WhatsApp Image 2024-03-03 at 10 47 06 AM](https://github.com/CrossBytes/THack-24/assets/126707783/09df2cdf-d051-4b24-bb64-38f89caee863)
+
+![WhatsApp Image 2024-03-03 at 10 47 28 AM](https://github.com/CrossBytes/THack-24/assets/126707783/56df0482-ab1b-4ec8-9b13-d708baed052e)
+
 
 *OUR FEATURES*
+
 
 
 #### Web-based catalog: BookHive is accessible through a web browser, indicating that it is an online platform rather than a traditional software installed on library computers. This means that users can access the catalog from any device with an internet connection, offering convenience and flexibility.
